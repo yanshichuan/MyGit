@@ -16,6 +16,7 @@ public class Test {
 		System.out.println("this the 1st test");
 		System.out.println("this the 2nd test");
 		System.out.println("this the 3rd test");
+		System.out.println("this the 4th test for dev");
 	}
 
 }
