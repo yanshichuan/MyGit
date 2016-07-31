@@ -21,6 +21,8 @@ public class GitTest {
 		System.out.println("this the 5th test");
 		System.out.println("this the 6th test");
 		System.out.println("this the 7th test");
+		System.out.println("this the 8th test");
+
 		
 	}
 
